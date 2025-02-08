@@ -1,0 +1,3 @@
+/Users/sl/Desktop/Rizh/cmake-build-debug/CMakeFiles/my_shell.dir
+/Users/sl/Desktop/Rizh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sl/Desktop/Rizh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
