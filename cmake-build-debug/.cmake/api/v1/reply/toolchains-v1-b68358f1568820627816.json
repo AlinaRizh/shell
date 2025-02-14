@@ -10,8 +10,9 @@
 				{
 					"includeDirectories" : 
 					[
-						"/usr/include",
-						"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include"
+						"/Library/Developer/CommandLineTools/usr/lib/clang/16/include",
+						"/Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include",
+						"/Library/Developer/CommandLineTools/usr/include"
 					],
 					"linkDirectories" : 
 					[

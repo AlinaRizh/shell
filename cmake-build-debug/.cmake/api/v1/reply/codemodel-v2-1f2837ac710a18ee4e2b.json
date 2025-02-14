@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/sl/Desktop/Rizh/cmake-build-debug",
-		"source" : "/Users/sl/Desktop/Rizh"
+		"build" : "/Users/rizh/Desktop/myshell/cmake-build-debug",
+		"source" : "/Users/rizh/Desktop/myshell"
 	},
 	"version" : 
 	{
